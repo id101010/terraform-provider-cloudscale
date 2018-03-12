@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/terraform-providers/terraform-provider-cloudscale/cloudscale"
+	"github.com/id101010/terraform-provider-cloudscale/cloudscale"
 )
 
 func main() {
